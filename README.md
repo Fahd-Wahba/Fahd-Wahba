@@ -3,7 +3,9 @@
 </div>
 
 <h1 align="center">
-  أWelcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Fahd Wahba
+  Welcome! <br>
+  Fahd Wahba
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <h3 align="center">
   Web Developer | ASP.NET MVC Specialist 
