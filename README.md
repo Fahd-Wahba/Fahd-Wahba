@@ -46,13 +46,9 @@ Let's connect and build something amazing together!</p>
   <br/>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <br/>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br
   <img src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
-  <img src="https://img.shields.io/badge/Azure-%230078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
 ## 🔭 My Projects:
@@ -64,10 +60,10 @@ Let's connect and build something amazing together!</p>
   <h3 align="center">My Projects</h3>
   <p align="center">
     <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_MVC_PROJECT_1" target="_blank">
-      <img src="https://img.shields.io/badge/E--Commerce%20Site%20(MVC)-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Project 1">
+      
     </a>
     <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_MVC_PROJECT_2" target="_blank">
-      <img src="https://img.shields.io/badge/Task%20Management%20(Web%20API)-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Project 2">
+      
     </a>
   </p>
   <p align="center"> 
