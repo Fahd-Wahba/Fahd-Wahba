@@ -28,9 +28,9 @@ Let's connect and build something amazing together!</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/fahd-wahba-470a6b257" target="www.linkedin.com/in/fahd-wahba-470a6b257">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
-  </a>
+<a href="https://www.linkedin.com/in/fahd-wahba-470a6b257" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40" />
+</a>
   </p>
 
 <h3 align="center">Languages and Tools:</h3>
