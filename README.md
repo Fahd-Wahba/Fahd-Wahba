@@ -60,11 +60,6 @@ Let's connect and build something amazing together!</p>
   <h3 align="center">My Projects</h3>
   <p align="center">
     <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_MVC_PROJECT_1" target="_blank">
-      
-    </a>
-    <a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_MVC_PROJECT_2" target="_blank">
-      
-    </a>
   </p>
   <p align="center"> 
     <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories" target="_blank">
