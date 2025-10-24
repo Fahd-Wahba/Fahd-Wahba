@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  أهلاً بالجميع! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> أنا فهد
+  أWelcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Fahd Wahba
 </h1>
 <h3 align="center">
   Web Developer | ASP.NET MVC Specialist 
