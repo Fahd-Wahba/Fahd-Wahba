@@ -66,21 +66,4 @@ Let's connect and build something amazing together!</p>
 
 </details>
 
-## 🧮 Stats:
 
-<details>
-  <summary><b>GitHub Statistics</b></summary>
-  <br />
-
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" height="150" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="150" alt="GitHub Streak" />
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&column=-1&row=1" height="150" alt="GitHub Trophies" />
-  </div>
-
-  <br />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&area=true" alt="Contribution Graph" />
-
-</details>
